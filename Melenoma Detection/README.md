@@ -30,6 +30,10 @@ This project focuses on utilizing **OpenCL for parallel computing** to convert c
 ---
 
 ## **Example Input and Output**
-- **Input Image:** ![Sample Input]()
-- **Output Image:** ![Sample Output]()
+<p align="center">
+  <img src="https://github.com/zaibunnisaq/OpenCL-Melenoma-Detection/blob/main/Melenoma%20Detection/Input%20Images/c.jpg" alt="Input Image" width="250"/>
+  <img src="https://github.com/zaibunnisaq/OpenCL-Melenoma-Detection/blob/main/Melenoma%20Detection/Output%20Images/c.jpg_grayscale.jpg" alt="Output Image" width="250"/>
+</p>
+
+<p align="center"><b>Input Image</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>Output Image</b></p>
 
